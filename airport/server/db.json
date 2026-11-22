@@ -1,0 +1,21 @@
+{
+ "users": [
+  {
+   "id": "VQZ04D1",
+   "name": "Admin",
+   "email": "admin@skyport.local",
+   "role": "admin",
+   "hash": "$2a$10$jImxLRNKcGp/aK0dLIOBcOxUnd0OJHNaZz6sGyUvdKk5st/ts0yGi"
+  },
+  {
+   "id": "NRSV90A",
+   "name": "admin",
+   "email": "samuelmuchiri530@gmail.com",
+   "role": "user",
+   "hash": "$2a$10$H.DAdW9om1ghWFrukxYbBeIJgwcPNunAn8TmLv2tF1QFP7vUD4jl."
+  }
+ ],
+ "bookings": [],
+ "reports": [],
+ "overrides": {}
+}
